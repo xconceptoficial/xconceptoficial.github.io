@@ -2037,3 +2037,24 @@ body {
 .cid-rl0H3OBu2E H1 {
   color: #d66d18;
 }
+.cid-rl0LH1gcMN {
+  background: #c1c1c1;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rl0LH1gcMN .image-block {
+  margin: auto;
+}
+.cid-rl0LH1gcMN figcaption {
+  position: relative;
+}
+.cid-rl0LH1gcMN figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rl0LH1gcMN .image-block {
+    width: 100% !important;
+  }
+}
